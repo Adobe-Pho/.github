@@ -21,7 +21,7 @@ Photoshop supports a non-destructive workflow through features like **layers, ma
 Whether you're restoring old photographs, designing web layouts, creating digital art, or preparing images for print, Adobe Photoshop offers the precision, flexibility, and control needed to achieve professional results. Its integration with other Adobe Creative Cloud apps like Illustrator, Lightroom, and Premiere Pro makes it an essential part of any creative workflow.
 
 <p align="center">
-  <img src="https://www.canadiannaturephotographer.com/CS6/interface.jpg" alt="Adobe Photoshop Screenshot"/>
+  <img src="https://cloudfront.slrlounge.com/wp-content/uploads/2021/02/How-To-Customize-Your-Photoshop-UI-SLR-Lounge.jpg" alt="Adobe Photoshop Screenshot"/>
 </p>
 
 ---
